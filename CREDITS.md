@@ -1,0 +1,32 @@
+# Фото — Wikimedia Commons (свободные лицензии)
+
+- photos/puer.jpg — soultea.de/André Helbig, CC BY 3.0, https://commons.wikimedia.org/wiki/File:Soultea-Pu-erh-first-grade.jpg
+- photos/tieguanyin.jpg — Francesc Fort, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Fulles_de_Tieguanyin.jpg
+- photos/wuyi.jpg — Nadav Spiegelman, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Wuyi_oolong_tea.jpg
+- photos/dancong.jpg — Mx. Granger, CC0, https://commons.wikimedia.org/wiki/File:Duck_shit_aroma_tea_2.jpg
+- photos/shoumei.jpg — User:Matros, Public domain, https://commons.wikimedia.org/wiki/File:Shou_Mei_tea.JPG
+- photos/green.jpg — Romain Guy from Lyon, France, CC BY-SA 2.0, https://commons.wikimedia.org/wiki/File:Dried_tea_leaves,_Longjin.jpg
+- photos/jinjunmei.jpg — Difference engine, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Jin_Jun_Mei.jpg
+- photos/dianhong.jpg — Sjschen, CC BY 3.0, https://commons.wikimedia.org/wiki/File:GoldenDianHong.jpg
+- photos/liubao.jpg — Cosmin Dordea, CC BY-SA 2.0, https://commons.wikimedia.org/wiki/File:JinHua_"golden_flower"_from_Liu_Bao.jpg
+- photos/yinzhen.jpg — LDFrancis, Public domain, https://commons.wikimedia.org/wiki/File:Bai_Hao_Yinzhen_or_Silver_needle_White_Tea.JPG
+- photos/baimudan.jpg — chaidrakon.ru, CC BY 3.0, https://commons.wikimedia.org/wiki/File:Bai_Mudan.jpg
+- photos/dahongpao.jpg — Iateasquirrel at English Wikipedia, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Da_Hong_Pao_Oolong_tea_leaf.jpg
+- photos/lapsang.jpg — No machine-readable author provided. Deltabeignet assumed (based on copyright claims)., CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Lapsang_souchong_tea.jpg
+- photos/keemun.jpg — Whiteness, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Keemun_FOP_(2).JPG
+- photos/longjing.jpg — Difference engine, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Longjing_tea.jpg
+- photos/maofeng.jpg — Qirille, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Maofeng_Anhui_黄山毛峰_安徽.jpg
+- photos/biluochun.jpg — Verylikerice at en.wikipedia, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Biluochun_(medium_grade,_spring_2007).jpg
+- photos/jasmine.jpg — Hayden Soloviev, CC BY 4.0, https://commons.wikimedia.org/wiki/File:Loose_Jasmine_Tea_Leaves.jpg
+- photos/anji.jpg — LinusBG, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Anji_bai_cha_leaves.jpg
+- photos/dongding.jpg — Waliy sherpa, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Dong_Ding_tea.jpg
+- photos/jinxuan.jpg — Difference engine, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Jin_Xuan_oolong_tea.jpg
+- photos/sheng.jpg — Qirille, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Raw_Pu_erh.jpg
+- photos/shutuo.jpg — Copypaiste, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:"Da_Yi_Gong_Tuo"_Pu-erh_shou_cha,_2010.jpg
+- photos/shuixian.jpg — Difference engine, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Shui_Xian.jpg
+- photos/tgy2.jpg — No machine-readable author provided. Laubrau~commonswiki assumed (based on copyright claims)., CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Tieguanyin.jpg
+- photos/yunnanblack.jpg — Whiteness, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Yunnan_Black_TGFOP.JPG
+- photos/jinluo.jpg — Fumikas Sagisavas, CC0, https://commons.wikimedia.org/wiki/File:Dianhong-Jinluo_tea.jpg
+- photos/puercake.jpg — 静葉, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Pu-erh_tea_front.JPG
+- photos/shoumeigaiwan.jpg — Fritzober, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Shou_Mei_in_Gaiwan-Schale.jpg
+- photos/oolongchar.jpg — Toby Oxborrow from Kowloon, Hong Kong, CC BY-SA 2.0, https://commons.wikimedia.org/wiki/File:Oolong_tea_leaves_-_character_for_tea_in_Chinese.jpg
